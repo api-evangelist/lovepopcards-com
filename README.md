@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lovepop creates magical pop‑up greeting cards that combine intricate paper engineering with digital design. Founded in 2014, the company offers a range of occasion‑specific cards, custom designs, and a subscription service. Their API provides product catalogs, pricing, and order placement for partners and developers. Lovepop is backed by Techstars and has raised multiple funding rounds.
+Buy online, personalize, schedule and send 3D pop-up cards with free shipping. Lovepop has greeting cards & paper art for every occasion. A Lovepop is a beautiful keepsake that unfolds like a miniature surprise. Two successful ship designers apply their talents to design magical paper sculptures that help people express their care for each other. Founded in 2014, Lovepop creates intricate 3D pop-up greeting cards that combine art and engineering, offering free shipping and personalization for celebrations.
 
-**Areas:** Company · E‑commerce · Greeting Cards · API · Subscription
+**Areas:** Cards · Pop-up · Greeting-Cards · Paper-Art · E-commerce
 
 ## lovepop on APIs.io
 
 Everything profiled for lovepop is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lovepopcards-com/](https://apis.io/providers/lovepopcards-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Lovepop API](https://apis.io/apis/lovepopcards-com/lovepop-api/) — GraphQL and MCP API for Lovepop e-commerce platform.
 
 ### Published properties
 
@@ -86,22 +90,24 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://lovepopcards.com/)
+- [Website](https://www.lovepop.com/)
+- [Sign up](https://www.lovepop.com/account/register)
 - [Support](https://support.lovepop.com/en-US)
+- [Blog](https://www.lovepop.com/blogs/pop-up-cards)
 - [Terms of service](https://www.lovepop.com/policies/terms-of-service)
 - [Privacy policy](https://www.lovepop.com/policies/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 11.8** — emerging · rubric 0.24.0 · scored 2026-10-29
+**Kin Score 13.9** — emerging · rubric 0.25.0 · scored 2026-10-29
 
 | Facet | Score |
 |---|---|
-| Discoverability | 50.0 |
+| Discoverability | 66.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 4.8 |
+| Developer ergonomics | 7.1 |
 | Access clarity | 34.2 |
 
 **Agent readiness 7.6** — agent-aware
@@ -127,6 +133,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | verified |
 | Dynamic Client Registration | — |
 | Agentic Commerce | platform (partial credit) |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
 
 **Regulatory alignment 12.5** — Payments
 
